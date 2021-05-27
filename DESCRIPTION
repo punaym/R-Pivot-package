@@ -1,0 +1,10 @@
+Package: RPivot
+Type: Package
+Title: R-Pivot Table
+Version: 0.1.0
+Author: Punay Mehra
+Maintainer: Punay Mehra <punay.mehra@gmail.com>
+Description: This package can be used to create Pivot tables on large datasets
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
